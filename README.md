@@ -52,7 +52,7 @@
 ### Installation
    * Install all the necessary files.
    * Open Pycharm and paste all the files.
-   * In the terminal type cd DiabetesProject -> cd DiabetesProject -> python manage.py runserver.Now django server will be initiallised..
+   * In the terminal run cd HousePricePrediction -> cd HousePricePrediction -> cd HousePricePrediction -> python manage.py runserver.
    * Open http://127.0.0.1:5000/ in your browser.
 
 # CONCLUSION:
